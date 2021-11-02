@@ -1,4 +1,11 @@
-### Hi there 👋
+# Hello World I'm Erick Roo 👋
+
+### I'm Erick and I'm updating my profile 🔧🔨💻
+
+![Alt Text](https://viralviralvideos.com/wp-content/uploads/2014/06/GIF-Hacker.gif)
+
+##Check my LinkedIn Profile
+[/in/erickroo/](https://www.linkedin.com/in/erickroo/)
 
 <!--
 **ErickRoo/erickroo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
