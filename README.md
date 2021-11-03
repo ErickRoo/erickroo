@@ -31,7 +31,7 @@ alert(`I'm looking for a frontend developer job 🔧🔨💻`);
 ## I'm a web developer with a background as an electrical engineer
 
 - 🌱 I’m currently learning everything 🤣
-- ⚡ Fun fact: I like to athletics, cooking and stydying.
+- ⚡ Fun fact: I like to athletics, cooking and studying.
 
 <br />
 <br />
