@@ -38,10 +38,14 @@ alert(`I'm looking for a frontend developer job 🔧🔨💻`);
 <br />
 <br />
 
-# Blog posts
 
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+---
+
+<img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ErickRoo&count_private=true&show_icons=true&theme=chartreuse-dark" />
+
+---
+
+<img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErickRoo&layout=compact" />
 
 <!-- Link de enlaces -->
 
