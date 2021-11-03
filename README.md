@@ -36,6 +36,11 @@ alert(`I'm looking for a frontend developer job 🔧🔨💻`);
 <br />
 <br />
 
+# LinkedIn Activity
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 <!-- Link de enlaces -->
 
 [linkedin]: https://www.linkedin.com/in/erickroo/
