@@ -1,7 +1,7 @@
 # Hello World I'm Erick Roo <img src='assets/clapping-clap.gif' style="width:10%"/>
 
 ```javascript
-alert(`I'm looking for a frontend developer job 🔧🔨💻`);
+alert(`I'm frontend developer 🔧🔨💻`);
 ```
 
 ---
