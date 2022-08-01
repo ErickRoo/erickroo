@@ -10,8 +10,8 @@ alert(`I'm frontend developer 🔧🔨💻`);
 
 ### Connect whit me:
 
-[<img align="left" alt="erickroo | LinkedIn" style="background-color: white; width: 22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="erickroo | Twitter" style="background-color: white; width: 22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="erickroo | LinkedIn" style="background-color: white; width: 22px; color: white" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="erickroo | Twitter" style="background-color: white; width: 22px; color: white" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 
 <br/>
 
